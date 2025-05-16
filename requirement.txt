@@ -1,0 +1,5 @@
+line-bot-sdk==1.18.0
+flask
+gunicorn
+os
+import os
